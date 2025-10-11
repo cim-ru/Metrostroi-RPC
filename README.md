@@ -13,9 +13,9 @@ RPC **совместим** с Metrostroi Extentions Library
 # Как запустить?
 Через комбинацию win+r открываем командную строку (пишем cmd), и вводим команды: 
 
-# Гайд по установке и запуску https://www.youtube.com/watch?v=bmhTqA4F1AM
-
 ***"cd C:\(путь до файла)"*** и ***"python main.py"***
+
+# Гайд по установке и запуску https://www.youtube.com/watch?v=bmhTqA4F1AM
 
 # Необходимые компоненты:
 Python 3.8+ *(скачать можно с python.org/downloads)*
