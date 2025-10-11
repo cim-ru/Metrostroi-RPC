@@ -41,3 +41,5 @@ pip install pypresence flask requests colorama
 С MEL всё работает не переживайте (и без него тоже)
 
 Большую помощь оказал мне [Призма]([URL](https://github.com/prizmaa)) Спасибо ему большое!❤
+
+Кто хочет оставить копеечку автору https://www.donationalerts.com/r/cim556
