@@ -1,5 +1,4 @@
 # Metrostroi-rpc
-====Русский язык====
 Куда класть файлы?
 Файл main.py кладём в папку C:\metrostroi_rpc (или другую, как захотите)
 
@@ -32,7 +31,7 @@ pip install pypresence flask requests colorama
 
 В файле discord_rpc_client.lua
 В строке 8 local SERVER_PUBLIC_URL = "https://metrostroi123.loca.lt/rpc"
-Поменять metrostroi123 на любое своё значение, ** которое вписывали в main.py!!!**
+Поменять metrostroi123 на любое своё значение, которое вписывали в main.py!!!
 
 Также я вам рекомендую в целях безопасности и стабильности работы
 
