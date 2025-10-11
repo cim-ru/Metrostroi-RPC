@@ -38,5 +38,6 @@ pip install pypresence flask requests colorama
 В файле main.py в строке 38 SECRET = os.environ.get("RPC_SECRET", "super_secret_key_228")
 И в файле discord_rpc_client.lua в строке 9 local RPC_SECRET = "super_secret_key_228"
 Поменять пароль на свой и он должен везде совпадать!
+С MEL всё работает не переживайте (и без него тоже)
 
 Большую помощь оказал мне [Призма]([URL](https://github.com/prizmaa)) Спасибо ему большое!❤
