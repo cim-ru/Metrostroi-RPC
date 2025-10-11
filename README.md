@@ -34,6 +34,8 @@ Python 3.8+ *(скачать можно с python.org/downloads)*
 # Рекомендации в целях безопасности:
 В файле ***main.py*** в строке 38 SECRET = os.environ.get("RPC_SECRET", "super_secret_key_228") и ***discord_rpc_client.lua*** в строке 9 local RPC_SECRET = "super_secret_key_228" измените пароль на **СВОЙ**, он должен везде **совпадать**!
 
+**Все редактирования кода я рекомендую выполнять в Visual Studio Code https://code.visualstudio.com/**
+
 # Спасибо! ❤
 
 Большую помощь оказал мне [Prizmaa]([URL](https://github.com/prizmaa)), спасибо ему большое! ❤
