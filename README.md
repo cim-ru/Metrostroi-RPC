@@ -20,9 +20,9 @@ RPC **совместим** с Metrostroi Extentions Library
 # Необходимые компоненты:
 Python 3.8+ *(скачать можно с python.org/downloads)*
 
-При установке не забудьте отметить галочку “Add to PATH”. 
+При установке не забудьте ***отметить галочку “Add to PATH”. ***
 
-Не забудьте установить зависимости, открыть командую строку и выполнить: "pip install pypresence flask requests colorama"
+Не забудьте ***установить зависимости,*** открыть командую строку и выполнить: ***"pip install pypresence flask requests colorama"***
 
 # ВНИМАНИЕ!
 Для корректной работы тоннеля для передачи данных из Metrostroi необходимо:
