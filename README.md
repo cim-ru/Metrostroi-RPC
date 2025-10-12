@@ -19,6 +19,8 @@ RPC **совместим** с Metrostroi Extentions Library
 # Гайд по установке и запуску https://www.youtube.com/watch?v=bmhTqA4F1AM
 
 # Необходимые компоненты:
+Node.js https://nodejs.org/download
+
 Python 3.8+ *(скачать можно с python.org/downloads)*
 
 При установке не забудьте ***отметить галочку “Add to PATH”. ***
