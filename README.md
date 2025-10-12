@@ -36,7 +36,7 @@ Python 3.8+ *(скачать можно с python.org/downloads)*
 В файле ***discord_rpc_client.lua***  строке 8 local SERVER_PUBLIC_URL = "https://metrostroi123.loca.lt/rpc" изменить metrostroi123 на любое **СВОЁ** значение, которое вписывали в ***main.py***!
 
 # Рекомендации в целях безопасности:
-В файле ***main.py*** в строке 38 SECRET = os.environ.get("RPC_SECRET", "super_secret_key_228") и ***discord_rpc_client.lua*** в строке 9 local RPC_SECRET = "super_secret_key_228" измените пароль на **СВОЙ**, он должен везде **совпадать**!
+В файле ***main.py*** в строке 38 SECRET = os.environ.get("RPC_SECRET", "super_secret_key_228") и ***discord_rpc_client.lua*** в строке 9 local RPC_SECRET = "super_secret_key_228" измените пароль (super_secret_key_228) на **СВОЙ**, он должен везде **совпадать**!
 
 **Все редактирования кода я рекомендую выполнять в Visual Studio Code https://code.visualstudio.com/**
 
