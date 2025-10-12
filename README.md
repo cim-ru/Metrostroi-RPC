@@ -32,7 +32,7 @@ RPC выполняет функции показа процесса игры: н
 >Не забудьте ***установить зависимости,*** открыть командую строку и выполнить: ***"pip install pypresence flask requests colorama"***
 >### И не забудьте установить локальный тоннель! В командой строке выполняем: **npm i -g localtunnel**
 
->[!CAUTION]
+>[!WARNING]
 ># ВНИМАНИЕ!
 >Для корректной работы тоннеля для передачи данных из Metrostroi необходимо:
 >
@@ -40,7 +40,7 @@ RPC выполняет функции показа процесса игры: н
 >
 >В файле ***discord_rpc_client.lua***  строке 8 local SERVER_PUBLIC_URL = "https://metrostroi123.loca.lt/rpc" изменить metrostroi123 на любое **СВОЁ** значение, которое вписывали в ***main.py***!
 
-> [!TIP]
+> [!CAUTION]
 ># Рекомендации в целях безопасности:
 >В файле ***main.py*** в строке 38 SECRET = os.environ.get("RPC_SECRET", "super_secret_key_228") и ***discord_rpc_client.lua*** в строке 9 local RPC_SECRET = "super_secret_key_228" измените пароль (super_secret_key_228) на **СВОЙ**, он должен везде **совпадать**!
 
