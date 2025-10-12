@@ -16,7 +16,7 @@ RPC **совместим** с Metrostroi Extentions Library
 
 ***"cd C:\(путь до файла)"*** и ***"python main.py"***
 
-# Гайд по установке и запуску https://www.youtube.com/watch?v=bmhTqA4F1AM
+# Гайд по установке питона и запуску https://www.youtube.com/watch?v=bmhTqA4F1AM
 
 # Необходимые компоненты:
 Node.js https://nodejs.org/download
