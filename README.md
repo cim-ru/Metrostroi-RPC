@@ -19,7 +19,7 @@ RPC выполняет функции показа процесса игры: н
 >***"cd C:\(путь до файла)"*** и ***"python main.py"***
 
 > [!TIP]
-># Гайд по установке питона и запуску https://www.youtube.com/watch?v=bmhTqA4F1AM
+># Гайд по установке компонентов и запуску PRC: [https://www.youtube.com/watch?v=bmhTqA4F1AM](https://www.youtube.com/watch?v=32FWzQyKvxA)
 
 > [!IMPORTANT]
 > # Необходимые компоненты:
