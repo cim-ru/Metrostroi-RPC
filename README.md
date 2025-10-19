@@ -26,11 +26,10 @@ RPC выполняет функции показа процесса игры: н
 > **Node.js** https://nodejs.org/download
 >
 > **Python 3.8+** *(скачать можно с python.org/downloads)*
-> 
-> **Аддон Metrostroi Scoreboard PRO** (https://steamcommunity.com/sharedfiles/filedetails/?id=1910844812)
 >
 > При установке не забудьте ***отметить галочку “Add to PATH”. ***
 >
+> **Аддон Metrostroi Scoreboard PRO** (https://steamcommunity.com/sharedfiles/filedetails/?id=1910844812)
 >Не забудьте ***установить зависимости,*** открыть командую строку и выполнить: ***"pip install pypresence flask requests colorama"***
 >### И не забудьте установить локальный тоннель! В командой строке выполняем: **npm i -g localtunnel**
 
