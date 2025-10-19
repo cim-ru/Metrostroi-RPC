@@ -27,7 +27,7 @@ RPC выполняет функции показа процесса игры: н
 >
 > **Python 3.8+** *(скачать можно с python.org/downloads)*
 > 
->Аддон [Metrostroi Scoreboard PRO] (https://steamcommunity.com/sharedfiles/filedetails/?id=1910844812)
+> **Аддон Metrostroi Scoreboard PRO** (https://steamcommunity.com/sharedfiles/filedetails/?id=1910844812)
 >
 > При установке не забудьте ***отметить галочку “Add to PATH”. ***
 >
