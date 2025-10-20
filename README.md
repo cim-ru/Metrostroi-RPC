@@ -49,6 +49,10 @@ RPC выполняет функции показа процесса игры: н
 > [!NOTE]
 >**Все редактирования кода я рекомендую выполнять в Visual Studio Code https://code.visualstudio.com/**
 
+>[!WARNING]
+>По всем багам пишите в https://github.com/cim-ru/Metrostroi-RPC/issues
+>По всем вопросам и предложениям пишите в https://github.com/cim-ru/Metrostroi-RPC/discussions
+
 # Спасибо! ❤
 
 Большую помощь оказал мне  **[Prizmaa](https://github.com/prizmaa)**, спасибо ему большое! ❤
