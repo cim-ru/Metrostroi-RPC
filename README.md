@@ -51,6 +51,7 @@ RPC выполняет функции показа процесса игры: н
 
 >[!WARNING]
 >По всем багам пишите в https://github.com/cim-ru/Metrostroi-RPC/issues
+>
 >По всем вопросам и предложениям пишите в https://github.com/cim-ru/Metrostroi-RPC/discussions
 
 # Спасибо! ❤
