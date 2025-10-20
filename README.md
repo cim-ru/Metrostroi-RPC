@@ -31,7 +31,7 @@ RPC выполняет функции показа процесса игры: н
 >
 > **Аддон Metrostroi Scoreboard PRO** (https://steamcommunity.com/sharedfiles/filedetails/?id=1910844812)
 > 
->Не забудьте ***установить зависимости,*** открыть командую строку и выполнить: ***"pip install pypresence flask requests colorama"***
+>Не забудьте ***установить зависимости,*** открыть командую строку и выполнить: **"pip install pypresence flask requests colorama"**
 >### И не забудьте установить локальный тоннель! В командой строке выполняем: **npm i -g localtunnel**
 
 >[!WARNING]
